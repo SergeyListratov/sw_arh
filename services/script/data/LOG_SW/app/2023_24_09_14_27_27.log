@@ -1,0 +1,108 @@
+Err. Connection error or Device 173.34.0.125 not in list dlink_ds
+Initiating show switch: 173.34.0.84
+Backup 173.34.0.84 is actual. Current ver: 2023-09-05 13:44:29
+Initiating show switch: 173.34.0.205
+Backup 173.34.0.205 is actual. Current ver: 2023-09-05 13:45:06
+Initiating show switch: 173.34.0.197
+Backup 173.34.0.197 is actual. Current ver: 2023-09-05 13:44:18
+Initiating show switch: 173.34.0.204
+Backup 173.34.0.204 is actual. Current ver: 2023-09-05 13:43:18
+Err. Connection error or Device 173.34.0.198 not in list dlink_ds
+Err. Connection error or Device 173.34.0.72 not in list dlink_ds
+Initiating show switch: 173.34.0.237
+Backup 173.34.0.237 is actual. Current ver: 2023-09-05 13:45:18
+Initiating show switch: 173.34.0.201
+Backup 173.34.0.201 is actual. Current ver: 2023-09-05 13:43:44
+Initiating show switch: 173.34.0.81
+Backup 173.34.0.81 is actual. Current ver: 2023-09-05 13:43:03
+Initiating show switch: 173.34.0.215
+Backup 173.34.0.215 is actual. Current ver: 2023-09-05 13:45:41
+Initiating show switch: 173.34.0.219
+Backup 173.34.0.219 is actual. Current ver: 2023-09-05 13:44:41
+Err. Connection error or Device 173.34.0.216 not in list dlink_ds
+Initiating show switch: 173.34.0.206
+Backup 173.34.0.206 is actual. Current ver: 2023-09-05 13:43:30
+Initiating show switch: 173.34.0.213
+Backup 173.34.0.213 is actual. Current ver: 2023-09-05 13:42:40
+Err. Connection error or Device 173.34.0.199 not in list dlink_ds
+Initiating show switch: 173.34.0.51
+Backup 173.34.0.51 is actual. Current ver: 2023-09-05 13:45:29
+Err. Connection error or Device 173.34.0.214 not in list dlink_ds
+Initiating show switch: 173.34.0.86
+Backup 173.34.0.86 is actual. Current ver: 2023-09-05 13:42:52
+Initiating show switch: 173.34.0.217
+Backup 173.34.0.217 is actual. Current ver: 2023-09-05 13:44:52
+Initiating show switch: 173.34.0.203
+Backup 173.34.0.203 is actual. Current ver: 2023-09-05 13:44:07
+Initiating show switch: 173.34.0.123
+Backup 173.34.0.123 is actual. Current ver: 2023-09-12 08:40:07
+Initiating show switch: 173.34.0.58
+Backup 173.34.0.58 is actual. Current ver: 2023-09-05 13:43:55
+Initiating show switch: 173.34.0.68
+Backup 173.34.0.68 is actual. Current ver: 2023-09-05 13:47:18
+Initiating show switch: 173.34.0.71
+Backup 173.34.0.71 is done. New ver: 2023-09-24 14:07:36
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_71@2023_24_09_14_07_36.cfg
+Initiating show switch: 173.34.0.218
+Backup 173.34.0.218 is actual. Current ver: 2023-09-05 13:49:06
+Initiating show switch: 173.34.0.211
+Backup 173.34.0.211 is actual. Current ver: 2023-09-05 13:54:08
+Initiating show switch: 173.34.0.61
+Backup 173.34.0.61 is actual. Current ver: 2023-09-05 13:50:43
+Initiating show switch: 173.34.0.97
+Backup 173.34.0.97 is actual. Current ver: 2023-09-05 13:56:39
+Initiating show switch: 173.34.0.200
+Backup 173.34.0.200 is actual. Current ver: 2023-09-05 13:54:59
+Initiating show switch: 173.34.0.207
+Backup 173.34.0.207 is actual. Current ver: 2023-09-05 13:55:49
+Err. Connection error or Device 173.34.0.120 not in list tplink_jetstream
+Initiating show switch: 173.34.0.98
+Backup 173.34.0.98 is actual. Current ver: 2023-09-05 14:07:07
+Initiating show switch: 173.34.0.92
+Backup 173.34.0.92 is actual. Current ver: 2023-09-05 14:04:46
+Initiating show switch: 173.34.0.91
+Backup 173.34.0.91 is actual. Current ver: 2023-09-05 14:02:36
+Initiating show switch: 173.34.0.240
+Backup 173.34.0.240 is actual. Current ver: 2023-09-05 14:06:05
+Initiating show switch: 173.34.0.95
+Backup 173.34.0.95 is done. New ver: 2023-09-24 14:20:50
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_95@2023_24_09_14_20_50.cfg
+Initiating show switch: 173.34.0.64
+Backup 173.34.0.64 is actual. Current ver: 2023-09-05 14:00:13
+Initiating show switch: 173.34.0.93
+Backup 173.34.0.93 is actual. Current ver: 2023-09-05 13:59:36
+Initiating show switch: 173.34.0.239
+Backup 173.34.0.239 is actual. Current ver: 2023-09-05 14:01:21
+Initiating show switch: 173.34.0.238
+Backup 173.34.0.238 is actual. Current ver: 2023-09-05 14:03:39
+Initiating show switch: 173.34.0.224
+Backup 173.34.0.224 is actual. Current ver: 2023-09-05 13:58:33
+Initiating show switch: 173.34.0.101
+Backup 173.34.0.101 is actual. Current ver: 2023-09-05 14:07:19
+Initiating show switch: 173.34.0.102
+Backup 173.34.0.102 is actual. Current ver: 2023-09-05 14:07:33
+Initiating show switch: 173.34.0.96
+Backup 173.34.0.96 is actual. Current ver: 2023-09-05 14:07:45
+Initiating show switch: 173.34.0.99
+Backup 173.34.0.99 is actual. Current ver: 2023-09-05 14:07:56
+Initiating show switch: 173.34.0.103
+Backup 173.34.0.103 is actual. Current ver: 2023-09-05 14:08:04
+Err. Connection error or Device 173.34.0.104 not in list cisco_ios
+Err. Connection error or Device 173.34.0.106 not in list cisco_ios
+Initiating show switch: 173.34.0.221
+Backup 173.34.0.221 is actual. Current ver: 2023-09-05 14:08:17
+Initiating show switch: 173.34.0.111
+Backup 173.34.0.111 is actual. Current ver: 2023-09-05 14:08:38
+Initiating show switch: 173.34.0.110
+Backup 173.34.0.110 is actual. Current ver: 2023-09-05 14:08:27
+Initiating show switch: 173.34.0.118
+Backup 173.34.0.118 is actual. Current ver: 2023-09-05 14:09:04
+Err. Connection error or Device 173.34.0.113 not in list tplink_jetstream
+Initiating show switch: 173.34.0.114
+Backup 173.34.0.114 is actual. Current ver: 2023-09-05 14:08:46
+Initiating show switch: 173.34.0.115
+Backup 173.34.0.115 is actual. Current ver: 2023-09-05 14:08:58
+Initiating show switch: 173.34.0.116
+Backup 173.34.0.116 is actual. Current ver: 2023-09-05 14:08:52
+Initiating show switch: 173.34.9.130
+Backup 173.34.9.130 is actual. Current ver: 2023-09-21 13:06:55

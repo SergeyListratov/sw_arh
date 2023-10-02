@@ -1,0 +1,152 @@
+Err. Connection error or Device 173.34.0.125 not in list dlink_ds
+Initiating show switch: 173.34.0.213
+Backup 173.34.0.213 is done. New ver: 2023-09-05 13:42:40
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_213@2023_05_09_13_42_40.cfg
+Err. Connection error or Device 173.34.0.199 not in list dlink_ds
+Initiating show switch: 173.34.0.86
+Backup 173.34.0.86 is done. New ver: 2023-09-05 13:42:52
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_86@2023_05_09_13_42_52.cfg
+Initiating show switch: 173.34.0.81
+Backup 173.34.0.81 is done. New ver: 2023-09-05 13:43:03
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_81@2023_05_09_13_43_03.cfg
+Err. Connection error or Device 173.34.0.123 not in list dlink_ds
+Initiating show switch: 173.34.0.204
+Backup 173.34.0.204 is done. New ver: 2023-09-05 13:43:18
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_204@2023_05_09_13_43_18.cfg
+Initiating show switch: 173.34.0.206
+Backup 173.34.0.206 is done. New ver: 2023-09-05 13:43:30
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_206@2023_05_09_13_43_30.cfg
+Err. Connection error or Device 173.34.0.72 not in list dlink_ds
+Err. Connection error or Device 173.34.0.214 not in list dlink_ds
+Initiating show switch: 173.34.0.201
+Backup 173.34.0.201 is done. New ver: 2023-09-05 13:43:44
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_201@2023_05_09_13_43_44.cfg
+Initiating show switch: 173.34.0.58
+Backup 173.34.0.58 is done. New ver: 2023-09-05 13:43:55
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_58@2023_05_09_13_43_55.cfg
+Initiating show switch: 173.34.0.203
+Backup 173.34.0.203 is done. New ver: 2023-09-05 13:44:07
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_203@2023_05_09_13_44_07.cfg
+Initiating show switch: 173.34.0.197
+Backup 173.34.0.197 is done. New ver: 2023-09-05 13:44:18
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_197@2023_05_09_13_44_18.cfg
+Initiating show switch: 173.34.0.84
+Backup 173.34.0.84 is done. New ver: 2023-09-05 13:44:29
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_84@2023_05_09_13_44_29.cfg
+Initiating show switch: 173.34.0.219
+Backup 173.34.0.219 is done. New ver: 2023-09-05 13:44:41
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_219@2023_05_09_13_44_41.cfg
+Initiating show switch: 173.34.0.217
+Backup 173.34.0.217 is done. New ver: 2023-09-05 13:44:52
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_217@2023_05_09_13_44_52.cfg
+Initiating show switch: 173.34.0.205
+Backup 173.34.0.205 is done. New ver: 2023-09-05 13:45:06
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_205@2023_05_09_13_45_06.cfg
+Initiating show switch: 173.34.0.237
+Backup 173.34.0.237 is done. New ver: 2023-09-05 13:45:18
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_237@2023_05_09_13_45_18.cfg
+Err. Connection error or Device 173.34.0.216 not in list dlink_ds
+Err. Connection error or Device 173.34.0.198 not in list dlink_ds
+Initiating show switch: 173.34.0.51
+Backup 173.34.0.51 is done. New ver: 2023-09-05 13:45:29
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_51@2023_05_09_13_45_29.cfg
+Initiating show switch: 173.34.0.215
+Backup 173.34.0.215 is done. New ver: 2023-09-05 13:45:41
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_215@2023_05_09_13_45_41.cfg
+Initiating show switch: 173.34.0.68
+Backup 173.34.0.68 is done. New ver: 2023-09-05 13:47:18
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_68@2023_05_09_13_47_18.cfg
+Initiating show switch: 173.34.0.218
+Backup 173.34.0.218 is done. New ver: 2023-09-05 13:49:06
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_218@2023_05_09_13_49_06.cfg
+Initiating show switch: 173.34.0.61
+Backup 173.34.0.61 is done. New ver: 2023-09-05 13:50:43
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_61@2023_05_09_13_50_43.cfg
+Initiating show switch: 173.34.0.71
+Backup 173.34.0.71 is done. New ver: 2023-09-05 13:52:19
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_71@2023_05_09_13_52_19.cfg
+Initiating show switch: 173.34.0.211
+Backup 173.34.0.211 is done. New ver: 2023-09-05 13:54:08
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_211@2023_05_09_13_54_08.cfg
+Initiating show switch: 173.34.0.200
+Backup 173.34.0.200 is done. New ver: 2023-09-05 13:54:59
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_200@2023_05_09_13_54_59.cfg
+Initiating show switch: 173.34.0.207
+Backup 173.34.0.207 is done. New ver: 2023-09-05 13:55:49
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_207@2023_05_09_13_55_49.cfg
+Initiating show switch: 173.34.0.97
+Backup 173.34.0.97 is done. New ver: 2023-09-05 13:56:39
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_97@2023_05_09_13_56_39.cfg
+Err. Connection error or Device 173.34.0.120 not in list tplink_jetstream
+Initiating show switch: 173.34.0.95
+Backup 173.34.0.95 is done. New ver: 2023-09-05 13:57:45
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_95@2023_05_09_13_57_45.cfg
+Initiating show switch: 173.34.0.224
+Backup 173.34.0.224 is done. New ver: 2023-09-05 13:58:33
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_224@2023_05_09_13_58_33.cfg
+Initiating show switch: 173.34.0.93
+Backup 173.34.0.93 is done. New ver: 2023-09-05 13:59:36
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_93@2023_05_09_13_59_36.cfg
+Initiating show switch: 173.34.0.64
+Backup 173.34.0.64 is done. New ver: 2023-09-05 14:00:13
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_64@2023_05_09_14_00_13.cfg
+Initiating show switch: 173.34.0.239
+Backup 173.34.0.239 is done. New ver: 2023-09-05 14:01:21
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_239@2023_05_09_14_01_21.cfg
+Initiating show switch: 173.34.0.91
+Backup 173.34.0.91 is done. New ver: 2023-09-05 14:02:36
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_91@2023_05_09_14_02_36.cfg
+Initiating show switch: 173.34.0.238
+Backup 173.34.0.238 is done. New ver: 2023-09-05 14:03:39
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_238@2023_05_09_14_03_39.cfg
+Initiating show switch: 173.34.0.92
+Backup 173.34.0.92 is done. New ver: 2023-09-05 14:04:46
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_92@2023_05_09_14_04_46.cfg
+Initiating show switch: 173.34.0.240
+Backup 173.34.0.240 is done. New ver: 2023-09-05 14:06:05
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_240@2023_05_09_14_06_05.cfg
+Initiating show switch: 173.34.0.98
+Backup 173.34.0.98 is done. New ver: 2023-09-05 14:07:07
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_98@2023_05_09_14_07_07.cfg
+Initiating show switch: 173.34.0.101
+Backup 173.34.0.101 is done. New ver: 2023-09-05 14:07:19
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_101@2023_05_09_14_07_19.cfg
+Initiating show switch: 173.34.0.102
+Backup 173.34.0.102 is done. New ver: 2023-09-05 14:07:33
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_102@2023_05_09_14_07_33.cfg
+Initiating show switch: 173.34.0.96
+Backup 173.34.0.96 is done. New ver: 2023-09-05 14:07:45
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_96@2023_05_09_14_07_45.cfg
+Initiating show switch: 173.34.0.99
+Backup 173.34.0.99 is done. New ver: 2023-09-05 14:07:56
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_99@2023_05_09_14_07_56.cfg
+Initiating show switch: 173.34.0.103
+Backup 173.34.0.103 is done. New ver: 2023-09-05 14:08:04
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_103@2023_05_09_14_08_04.cfg
+Err. Connection error or Device 173.34.0.106 not in list cisco_ios
+Err. Connection error or Device 173.34.0.104 not in list cisco_ios
+Initiating show switch: 173.34.0.221
+Backup 173.34.0.221 is done. New ver: 2023-09-05 14:08:17
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_221@2023_05_09_14_08_17.cfg
+Initiating show switch: 173.34.0.110
+Backup 173.34.0.110 is done. New ver: 2023-09-05 14:08:27
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_110@2023_05_09_14_08_27.cfg
+Initiating show switch: 173.34.0.111
+Backup 173.34.0.111 is done. New ver: 2023-09-05 14:08:38
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_111@2023_05_09_14_08_38.cfg
+Initiating show switch: 173.34.0.114
+Backup 173.34.0.114 is done. New ver: 2023-09-05 14:08:46
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_114@2023_05_09_14_08_46.cfg
+Initiating show switch: 173.34.0.116
+Backup 173.34.0.116 is done. New ver: 2023-09-05 14:08:52
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_116@2023_05_09_14_08_52.cfg
+Initiating show switch: 173.34.0.115
+Backup 173.34.0.115 is done. New ver: 2023-09-05 14:08:58
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_115@2023_05_09_14_08_58.cfg
+Initiating show switch: 173.34.0.118
+Backup 173.34.0.118 is done. New ver: 2023-09-05 14:09:04
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_0_118@2023_05_09_14_09_04.cfg
+Err. Connection error or Device 173.34.0.113 not in list tplink_jetstream
+Initiating show switch: 173.34.9.130
+Backup 173.34.9.130 is done. New ver: 2023-09-05 14:09:11
+Finished backup operation. Created /usr/src/app/data/ARH_SW/173_34_9_130@2023_05_09_14_09_11.cfg

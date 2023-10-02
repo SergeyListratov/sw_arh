@@ -4,7 +4,7 @@ services:
   db:
     restart: unless-stopped
     container_name: postgres
-    image: postgres:latest
+    image: postgres:15-bookworm
     volumes:
       - postgres_data:/var/lib/postgresql/data
     environment:
