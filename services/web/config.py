@@ -118,13 +118,12 @@ model_sw_dict = {
 
     'DXS-3400-24SC': {'device_type': 'dlink_ds', 'serial_command_string': 'show unit', 'Model Name': 'Model Name',
                  'Serial-Number': 'Serial-Number', 'config_command_string': 'show running-config',
-                'sw_username': sw_username, 'sw_password': sw_password, 'delimiter': ':', 'func_ser': 0, 'func_conf': 1}
+                'sw_username': sw_username, 'sw_password': sw_password, 'delimiter': ':', 'func_ser': 0, 'func_conf': 1},
 
 
-
-    # 'd_1210_28_c1': {'device_type': 'dlink_ds', 'serial_command_string': 'show switch', 'Model Name': 'System name',
-    #                  'Serial-Number': 'System serial number', 'config_command_string': 'show config current_config',
-    #                  'sw_username': sw_username, 'sw_password': sw_password, 'delimiter': '-', 'func_ser': 0,
-    #                  'func_conf': 0}
+    'd_1210_28_c1': {'device_type': 'dlink_ds', 'serial_command_string': 'show switch', 'Model Name': 'System name',
+                     'Serial-Number': 'System serial number', 'config_command_string': 'show config current_config',
+                     'sw_username': sw_username, 'sw_password': sw_password, 'delimiter': '-', 'func_ser': 0,
+                     'func_conf': 0}
 }
 
