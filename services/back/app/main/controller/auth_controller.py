@@ -10,9 +10,7 @@ user_auth = AuthDto.user_auth
 
 @api.route('/login')
 class UserLogin(Resource):
-    """
-        User Login Resource
-    """
+
     @api.doc('user login')
     @api.expect(user_auth, validate=True)
     def post(self) -> Tuple[Dict[str, str], int]:
@@ -23,9 +21,7 @@ class UserLogin(Resource):
 
 @api.route('/user-info')
 class UserInfo(Resource):
-    """
-    User Information
-    """
+
     @api.doc('get user information')
     def post(self) -> Tuple[Dict[str, str], int]:
         # get auth token

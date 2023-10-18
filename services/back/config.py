@@ -122,9 +122,5 @@ model_sw_dict = {
 
 
 
-    # 'd_1210_28_c1': {'device_type': 'dlink_ds', 'serial_command_string': 'show switch', 'Model Name': 'System name',
-    #                  'Serial-Number': 'System serial number', 'config_command_string': 'show config current_config',
-    #                  'sw_username': sw_username, 'sw_password': sw_password, 'delimiter': '-', 'func_ser': 0,
-    #                  'func_conf': 0}
 }
 

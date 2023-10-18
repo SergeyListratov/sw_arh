@@ -52,7 +52,7 @@ class GridSuperController(Resource):
         result['data'] = data.items
         result['pagination'] = pagination
         
-        # print(result['pagination'])
+
                 
         return result
         
